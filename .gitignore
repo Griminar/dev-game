@@ -27,3 +27,19 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio Files
+*.sln
+*.VC.db
+*.ilk
+*.pdb
+*.vcxproj.filters
+*.vcxproj.user
+*.idb
+*.log
+*.lastbuildstate
+*.tlog
+*.Build.CppClean.log
+*.vcxproj
+*.suo
+*.VC.VC.opendb
